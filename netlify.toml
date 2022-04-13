@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "index.html"
+  to = "https://checkip.amazonaws.com"
+  status = 200
+  force = true
