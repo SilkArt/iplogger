@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "index.html"
+  from = "https://ip-logger.netlify.app"
   to = "https://checkip.amazonaws.com"
   status = 200
   force = true
